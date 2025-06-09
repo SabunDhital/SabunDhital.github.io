@@ -1,0 +1,16 @@
+title: Sabun Dhital
+description: Personal Website of Sabun Dittal – Business Analyst and Graduate Student at the University of South Dakota
+theme: jekyll-theme-minimal
+
+# Optional (customization and branding)
+author: Sabun Dhital
+email: sabun.dhital@coyotes.usd.edu
+url: "https://sabundhital.github.io"
+
+# Social media links (optional)
+# twitter_username: yourTwitter
+# linkedin_username: yourLinkedIn
+# github_username: sabundittal
+
+# Build settings
+markdown: kramdown
